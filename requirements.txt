@@ -1,3 +1,7 @@
 streamlit>=1.36
 pandas>=2.0
 reportlab>=4.1.0
+streamlit
+pandas
+PyPDF2
+reportlab   # optional; only needed for the PDF export button
